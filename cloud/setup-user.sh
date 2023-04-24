@@ -105,7 +105,7 @@ update_conf()
 
 ############### MAIN ###################
 
-USER="devops1"
+USER="devops"
 GROUP="devops"
 passw="today@1234"
 
